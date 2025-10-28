@@ -1,6 +1,7 @@
 # CI/CD Tools and Practices Final Project Template
 
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
+https://mansikhamka1-console.openshift-sandbox.labs.cognitiveclass.ai/k8s/cluster/projects/sn-labs-mansikhamka1
 
 ## Usage
 
